@@ -9,7 +9,7 @@
 
 若您要安装FoxScript,请先下载源代码然后编译
 
-或者使用以下命令
+或者使用以下命令:
 .. code-block:: console
 
    git clone https://github.com/LKBaka/FoxScript.git

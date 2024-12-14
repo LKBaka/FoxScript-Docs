@@ -1,16 +1,18 @@
-Usage
+使用指南
 =====
 
 .. _installation:
 
-Installation
+安装
 ------------
+.. 源代码: https://github.com/LKBaka/FoxScript
 
-To use Lumache, first install it using pip:
+若您要安装FoxScript,请先下载源代码然后编译
 
+或者使用以下命令
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   git clone https://github.com/LKBaka/FoxScript.git
 
 Creating recipes
 ----------------
